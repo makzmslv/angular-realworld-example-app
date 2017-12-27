@@ -40,9 +40,7 @@ Install Node.js 6.11 or higher. IMPORTANT:
 
 Run 'npm install' to install app dependencies
 
-Run 'ng build --watch' to build and bundle the code
-
-Run npm start or ng serve to launch the application. 
+Run 'ng serve' to launch the application. 
 
 Go to http://localhost:4200 in your browser
 
