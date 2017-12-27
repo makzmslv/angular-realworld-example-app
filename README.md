@@ -35,4 +35,15 @@ The example application is a social blogging site called "Conduit". It uses a cu
 
 <br />
 
+## How to Run the Application
+Install Node.js 6.11 or higher. IMPORTANT: 
 
+Run 'npm install' to install app dependencies
+
+Run 'ng build --watch' to build and bundle the code
+
+Run npm start or ng serve to launch the application. 
+
+Go to http://localhost:4200 in your browser
+
+Simply clone the project or download and extract the .zip to get started.
